@@ -1,0 +1,5 @@
+{
+  "name": "Pivovarský Inventář (Streamlit)",
+  "description": "Aplikace v Pythonu (Streamlit) pro správu zásob surovin pro vaření piva. Pro spuštění použijte příkaz: streamlit run app.py",
+  "requestFramePermissions": []
+}
